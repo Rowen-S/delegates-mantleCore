@@ -5,7 +5,7 @@
     "InternalReference": "test 1"
   },
   {
-    "Voteweight": 500000,
+    "Voteweight": 15,
     "Address": "0xE4459c2c76B0CDFD33DE8a2635157c248a4DEeB7",
     "InternalReference": "test 2."
   },
